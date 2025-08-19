@@ -31,11 +31,17 @@ We propose a **hybrid cognitive AI architecture** that:
 
 ---
 
-## 📊 Results
-- **Ensemble Hybrid System**: Precision = 1.0, Recall = 1.0, F1 = 1.0  
-- **XGBoost baseline**: collapses under noisy adversarial input (F1 = 0.52)  
-- Demonstrated **real-time detection** with latency < 50 ms  
-- Transparent, analyst-friendly **Explainable AI (XAI)** reports via chatbot  
+## 🔎 Results
+
+Our experiments evaluated the proposed system against both traditional and advanced baselines under noisy adversarial conditions:
+
+- **Neuron-Symbolic Logic AI (noisy):** Achieved strong robustness with Precision = 0.97, Recall = 0.96, F1 = 0.97.  
+- **Reinforcement Learning Agent (noisy):** Adapted effectively to dynamic attack vectors, with Precision = 0.99, Recall = 0.94, F1 = 0.97.
+- **XGBoost (baseline, noisy input):** Collapsed under adversarial perturbations with F1 = 0.52, highlighting vulnerability to manipulated data streams.  
+- **Voting System Ensemble Hybrid (Proposed):** Outperformed all baselines with **Precision = 1.0, Recall = 1.0, F1 = 1.0**, maintaining real-time operation with latency < 50ms.  
+
+📊 **Key Insight:**  
+These results confirm the system’s ability not only to resist adversarial manipulation but also to reliably differentiate between genuine and fake inputs, ensuring resilience against both current and future AI-driven attack patterns.  
 
 ---
 
