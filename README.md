@@ -3,6 +3,7 @@
 ## Overview
 This repository accompanies the paper **“Cognitive Hybrid AI System for Real-Time Cyber Intelligence Threat Detection”**.  
 We introduce a novel **cognitive AI framework** that integrates:
+- 🚀  **Autonomous real-time decision-making** with reinforcement learning agents 
 - 🧩 **Neuro-Symbolic Reasoning** for logical transparency and rule-based adaptability  
 - 🤖 **Reinforcement Learning (RL)** for dynamic decision-making under adversarial conditions  
 - 🌫️ **Fuzzy Uncertainty Handling** for probabilistic reasoning under ambiguity  
@@ -64,6 +65,16 @@ We propose a **hybrid cognitive AI architecture** that:
 
 ---
 
-## 📄 Citation
-If you use this work, please cite:
+---
+
+## 🛡️ Protected Research & Copyright
+© 2025 Mohamad Khaled. All rights reserved.  
+
+This repository and the accompanying paper **“Cognitive Hybrid AI System for Real-Time Cyber Intelligence Threat Detection”** present **original architectures, algorithms, and evaluation methods** for AI-driven cybersecurity.  
+
+Any reuse, modification, or redistribution of the methods, models, or experimental results without **explicit written permission** is strictly prohibited.  
+
+This work is protected under international copyright and intellectual property laws.  
+
+---
 
