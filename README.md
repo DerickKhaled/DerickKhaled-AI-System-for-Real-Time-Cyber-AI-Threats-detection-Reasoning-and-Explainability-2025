@@ -3,10 +3,9 @@
 ## Overview
 This repository accompanies the paper **“Cognitive Hybrid AI System for Real-Time Cyber Intelligence Threat Detection”**.  
 We introduce a novel **cognitive AI framework** that integrates:
-- 🚀  **Autonomous real-time decision-making** with reinforcement learning agents 
+- 🤖  **Autonomous real-time decision-making** with reinforcement learning agents 
 - 🧩 **Neuro-Symbolic Reasoning** for logical transparency and rule-based adaptability  
-- 🤖 **Reinforcement Learning (RL)** for dynamic decision-making under adversarial conditions  
-- 🌫️ **Fuzzy Uncertainty Handling** for probabilistic reasoning under ambiguity  
+- 🌫️ **Fuzzy Logic for Uncertainty & Risk Management**, enabling probabilistic reasoning under ambiguity and robust detection of unforeseen AI-driven attacks.  
 - 🗨️ **Agentic LLM Chatbot ("System Brain")** for explainability, analyst training, and natural-language queries  
 
 Our system enables **real-time fraud detection, adversarial robustness, interpretability, and resilience** against both current and emerging AI-powered cyberattacks.
